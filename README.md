@@ -1,8 +1,5 @@
-# Repositório App Webmonitor
+# Repositório App Webmonitor - Development
 
-# Aplicativo desenvolvido utilizando:
+# Branch criado para desenvolvimento do aplicativo
 
-* Ionic
-* Cordova
-
-## Maiores informações serão adicionadas conforme desenvolvimento do projeto
+# Maiores informações serão adicionadas conforme desenvolvimento do projeto
